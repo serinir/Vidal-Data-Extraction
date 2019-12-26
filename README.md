@@ -8,6 +8,6 @@
 ## scraper.py 
   `scraper.py` va scrapper depuis le kda menna mlhih vidal : 
 ```bash
-$ scrapper.py <port> A-C
+$ scraper.py <port> A-C
 ``` 
 le resultats et touts les mots du vidal commencant par A B ou C
