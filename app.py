@@ -1,5 +1,6 @@
-from http import server,HTTPStatus
+from http import server
 import sys
+
 #handler c'est comment on va servire , heda \
 # howa le plus simple eyserbess le fichier courrent direct
 handler = server.SimpleHTTPRequestHandler
