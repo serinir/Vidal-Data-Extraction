@@ -10,8 +10,8 @@ def illgetagoodlookingnamesoon(debut : str,fin :str) :
     return retour
 
 #Port & intervale de lettres
-port =  sys.argv[1]
-inter = sys.argv[2].split('-',1)
+port =  sys.argv[2]
+inter = sys.argv[1].split('-',1)
 #source /le lien de debut etc etc
 src = 'http://localhost:{}'.format(port) 
 #warning au cas ou les parametres mechi cheban
